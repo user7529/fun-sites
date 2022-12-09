@@ -8,3 +8,4 @@
 - [create card with rounded corners](https://www.w3schools.com/howto/howto_css_cards.asp)
 - [colinear divs](https://stackoverflow.com/questions/10451445/two-div-blocks-on-same-line)
 - [keyboard shortcut to select all highlighted in vscode](https://stackoverflow.com/questions/46539714/select-all-occurrences-of-selected-word-in-vscode#:~:text=Ctrl%20%2B%20Shift%20%2B%20L%20to%20select%20all%20occurrences%20of%20current%20selection.)
+- [media queries for responsive design](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
