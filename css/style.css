@@ -13,3 +13,11 @@ li {
     margin: 20px 20px;
     font-size: 20px;
 }
+
+div.short > a > img {
+    height: 5rem;
+}
+
+div.long > a > img {
+    height: 5rem;
+}
