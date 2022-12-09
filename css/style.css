@@ -8,7 +8,7 @@
         text-align:center;
     }
 
-    #bloc1, #bloc2, #bloc3, #bloc4, #bloc5, #bloc6, #bloc7, #bloc8, #bloc9, #bloc10, #bloc11, #bloc12 {
+    #bloc1, #bloc2, #bloc3, #bloc4, #bloc5, #bloc6, #bloc7, #bloc8, #bloc9, #bloc10, #bloc11, #bloc12, #bloc13, #bloc14, #bloc15, #bloc16 {
         display:inline;
         margin: 20px 20px;
         font-size: 20px;
@@ -34,7 +34,7 @@
         text-align:center;
     }
 
-    #bloc1, #bloc2, #bloc3, #bloc4, #bloc5, #bloc6, #bloc7, #bloc8, #bloc9, #bloc10, #bloc11, #bloc12 {
+    #bloc1, #bloc2, #bloc3, #bloc4, #bloc5, #bloc6, #bloc7, #bloc8, #bloc9, #bloc10, #bloc11, #bloc12, #bloc13, #bloc14, #bloc15, #bloc16 {
         display:block;
         margin: 20px 20px;
         font-size: 20px;
@@ -59,7 +59,7 @@
         text-align:center;
     }
 
-    #bloc1, #bloc2, #bloc3, #bloc4, #bloc5, #bloc6, #bloc7, #bloc8, #bloc9, #bloc10, #bloc11, #bloc12 {
+    #bloc1, #bloc2, #bloc3, #bloc4, #bloc5, #bloc6, #bloc7, #bloc8, #bloc9, #bloc10, #bloc11, #bloc12, #bloc13, #bloc14, #bloc15, #bloc16 {
         display: block;
         margin: 10px 10px;
         font-size: 10px;
