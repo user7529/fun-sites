@@ -11,4 +11,5 @@ li {
 #bloc1, #bloc2, #bloc3, #bloc4, #bloc5, #bloc6 {
     display:inline;
     margin: 20px 20px;
+    font-size: 20px;
 }
